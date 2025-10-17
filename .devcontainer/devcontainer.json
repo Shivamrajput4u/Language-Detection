@@ -1,0 +1,14 @@
+{
+  "name": "PyTorch CV Project",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10-bullseye",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "njpwerner.autodocstring"
+      ]
+    }
+  },
+  "postCreateCommand": "pip install --upgrade pip && pip install -r requirements.txt"
+}
