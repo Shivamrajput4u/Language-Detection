@@ -1,0 +1,130 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          25.0,
+          23.0
+        ],
+        [
+          89.0,
+          23.0
+        ],
+        [
+          89.0,
+          37.0
+        ],
+        [
+          25.0,
+          37.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          25.0,
+          35.0
+        ],
+        [
+          81.0,
+          35.0
+        ],
+        [
+          81.0,
+          49.0
+        ],
+        [
+          25.0,
+          49.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          27.0,
+          55.0
+        ],
+        [
+          87.0,
+          55.0
+        ],
+        [
+          87.0,
+          69.0
+        ],
+        [
+          27.0,
+          69.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          28.0,
+          66.0
+        ],
+        [
+          68.0,
+          66.0
+        ],
+        [
+          68.0,
+          74.0
+        ],
+        [
+          28.0,
+          74.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          34.0,
+          110.0
+        ],
+        [
+          74.0,
+          110.0
+        ],
+        [
+          74.0,
+          118.0
+        ],
+        [
+          34.0,
+          118.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0939\u093f\u0928\u094d\u0926\u09402866418-pocket-english-hindi-dictionary--?from_search=true&from_srp=true&qid=oLmcca1LuH&rank=3.jpg",
+  "imageData": null,
+  "imageHeight": 135,
+  "imageWidth": 90
+}

@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          129.0,
+          1.0
+        ],
+        [
+          189.0,
+          1.0
+        ],
+        [
+          189.0,
+          39.0
+        ],
+        [
+          129.0,
+          39.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          89.0,
+          31.0
+        ],
+        [
+          228.0,
+          31.0
+        ],
+        [
+          228.0,
+          60.0
+        ],
+        [
+          89.0,
+          60.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          117.0,
+          197.0
+        ],
+        [
+          153.0,
+          197.0
+        ],
+        [
+          153.0,
+          213.0
+        ],
+        [
+          117.0,
+          213.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          161.0,
+          195.0
+        ],
+        [
+          203.0,
+          195.0
+        ],
+        [
+          203.0,
+          213.0
+        ],
+        [
+          161.0,
+          213.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca120756300-kannada-alphabet-book?from_search=true&from_srp=true&qid=iOZJVeutY4&rank=10.jpg",
+  "imageData": null,
+  "imageHeight": 245,
+  "imageWidth": 318
+}

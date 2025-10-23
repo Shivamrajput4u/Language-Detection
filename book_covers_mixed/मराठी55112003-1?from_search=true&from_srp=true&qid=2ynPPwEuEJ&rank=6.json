@@ -1,0 +1,154 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          244.0,
+          79.0
+        ],
+        [
+          1385.0,
+          79.0
+        ],
+        [
+          1385.0,
+          369.0
+        ],
+        [
+          244.0,
+          369.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          561.0,
+          361.0
+        ],
+        [
+          1053.0,
+          361.0
+        ],
+        [
+          1053.0,
+          571.0
+        ],
+        [
+          561.0,
+          571.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          644.0,
+          1974.0
+        ],
+        [
+          905.0,
+          1974.0
+        ],
+        [
+          905.0,
+          2072.0
+        ],
+        [
+          644.0,
+          2072.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          538.0,
+          2084.0
+        ],
+        [
+          887.0,
+          2084.0
+        ],
+        [
+          887.0,
+          2200.0
+        ],
+        [
+          538.0,
+          2200.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          698.0,
+          2404.0
+        ],
+        [
+          896.0,
+          2404.0
+        ],
+        [
+          896.0,
+          2482.0
+        ],
+        [
+          698.0,
+          2482.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          862.00992561958,
+          2068.0992561958
+        ],
+        [
+          1053.735389915731,
+          2033.578915612244
+        ],
+        [
+          1073.99007438042,
+          2207.9007438042
+        ],
+        [
+          881.2646100842688,
+          2242.421084387756
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u092e\u0930\u093e\u0920\u094055112003-1?from_search=true&from_srp=true&qid=2ynPPwEuEJ&rank=6.jpg",
+  "imageData": null,
+  "imageHeight": 2560,
+  "imageWidth": 1600
+}

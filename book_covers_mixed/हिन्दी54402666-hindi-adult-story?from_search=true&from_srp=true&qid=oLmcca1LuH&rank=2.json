@@ -1,0 +1,82 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          314.0,
+          11.0
+        ],
+        [
+          1080.0,
+          11.0
+        ],
+        [
+          1080.0,
+          296.0
+        ],
+        [
+          314.0,
+          296.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          18.0,
+          350.0
+        ],
+        [
+          1048.0,
+          350.0
+        ],
+        [
+          1048.0,
+          618.0
+        ],
+        [
+          18.0,
+          618.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          2.829476035181957,
+          4.024477240848803
+        ],
+        [
+          351.5654114514226,
+          62.58029171478239
+        ],
+        [
+          301.170523964818,
+          298.9755227591512
+        ],
+        [
+          -46.56541145142265,
+          240.4197082852176
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0939\u093f\u0928\u094d\u0926\u094054402666-hindi-adult-story?from_search=true&from_srp=true&qid=oLmcca1LuH&rank=2.jpg",
+  "imageData": null,
+  "imageHeight": 1720,
+  "imageWidth": 1080
+}

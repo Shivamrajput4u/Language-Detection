@@ -1,0 +1,490 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          18.0,
+          36.0
+        ],
+        [
+          94.0,
+          36.0
+        ],
+        [
+          94.0,
+          60.0
+        ],
+        [
+          18.0,
+          60.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          112.0,
+          36.0
+        ],
+        [
+          168.0,
+          36.0
+        ],
+        [
+          168.0,
+          64.0
+        ],
+        [
+          112.0,
+          64.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          176.0,
+          36.0
+        ],
+        [
+          224.0,
+          36.0
+        ],
+        [
+          224.0,
+          64.0
+        ],
+        [
+          176.0,
+          64.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          245.0,
+          39.0
+        ],
+        [
+          333.0,
+          39.0
+        ],
+        [
+          333.0,
+          57.0
+        ],
+        [
+          245.0,
+          57.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          145.0,
+          63.0
+        ],
+        [
+          193.0,
+          63.0
+        ],
+        [
+          193.0,
+          79.0
+        ],
+        [
+          145.0,
+          79.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          15.0,
+          76.0
+        ],
+        [
+          326.0,
+          76.0
+        ],
+        [
+          326.0,
+          162.0
+        ],
+        [
+          15.0,
+          162.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          13.0,
+          159.0
+        ],
+        [
+          327.0,
+          159.0
+        ],
+        [
+          327.0,
+          225.0
+        ],
+        [
+          13.0,
+          225.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          62.0,
+          220.0
+        ],
+        [
+          286.0,
+          220.0
+        ],
+        [
+          286.0,
+          246.0
+        ],
+        [
+          62.0,
+          246.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          39.0,
+          239.0
+        ],
+        [
+          304.0,
+          239.0
+        ],
+        [
+          304.0,
+          267.0
+        ],
+        [
+          39.0,
+          267.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          65.0,
+          259.0
+        ],
+        [
+          283.0,
+          259.0
+        ],
+        [
+          283.0,
+          295.0
+        ],
+        [
+          65.0,
+          295.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          41.0,
+          313.0
+        ],
+        [
+          119.0,
+          313.0
+        ],
+        [
+          119.0,
+          331.0
+        ],
+        [
+          41.0,
+          331.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          41.0,
+          341.0
+        ],
+        [
+          111.0,
+          341.0
+        ],
+        [
+          111.0,
+          359.0
+        ],
+        [
+          41.0,
+          359.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          39.0,
+          369.0
+        ],
+        [
+          289.0,
+          369.0
+        ],
+        [
+          289.0,
+          389.0
+        ],
+        [
+          39.0,
+          389.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          241.0,
+          413.0
+        ],
+        [
+          319.0,
+          413.0
+        ],
+        [
+          319.0,
+          427.0
+        ],
+        [
+          241.0,
+          427.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          19.0,
+          427.0
+        ],
+        [
+          129.0,
+          427.0
+        ],
+        [
+          129.0,
+          443.0
+        ],
+        [
+          19.0,
+          443.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          223.0,
+          423.0
+        ],
+        [
+          339.0,
+          423.0
+        ],
+        [
+          339.0,
+          441.0
+        ],
+        [
+          223.0,
+          441.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          241.0,
+          439.0
+        ],
+        [
+          337.0,
+          439.0
+        ],
+        [
+          337.0,
+          453.0
+        ],
+        [
+          241.0,
+          453.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          19.0,
+          447.0
+        ],
+        [
+          41.0,
+          447.0
+        ],
+        [
+          41.0,
+          461.0
+        ],
+        [
+          19.0,
+          461.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          45.0,
+          447.0
+        ],
+        [
+          215.0,
+          447.0
+        ],
+        [
+          215.0,
+          461.0
+        ],
+        [
+          45.0,
+          461.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          249.0,
+          453.0
+        ],
+        [
+          309.0,
+          453.0
+        ],
+        [
+          309.0,
+          465.0
+        ],
+        [
+          249.0,
+          465.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd32872051-tnpsc-pothu-tamil-exam-book?from_search=true&from_srp=true&qid=Q84UzoG7W0&rank=9.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 368
+}

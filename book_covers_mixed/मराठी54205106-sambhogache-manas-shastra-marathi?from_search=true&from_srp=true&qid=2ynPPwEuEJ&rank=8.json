@@ -1,0 +1,130 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          509.0,
+          337.0
+        ],
+        [
+          1123.0,
+          337.0
+        ],
+        [
+          1123.0,
+          423.0
+        ],
+        [
+          509.0,
+          423.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          497.0,
+          538.0
+        ],
+        [
+          1139.0,
+          538.0
+        ],
+        [
+          1139.0,
+          622.0
+        ],
+        [
+          497.0,
+          622.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          634.0,
+          734.0
+        ],
+        [
+          998.0,
+          734.0
+        ],
+        [
+          998.0,
+          830.0
+        ],
+        [
+          634.0,
+          830.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          60.0,
+          1178.0
+        ],
+        [
+          1433.0,
+          1178.0
+        ],
+        [
+          1433.0,
+          1277.0
+        ],
+        [
+          60.0,
+          1277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          489.0,
+          1326.0
+        ],
+        [
+          1171.0,
+          1326.0
+        ],
+        [
+          1171.0,
+          1434.0
+        ],
+        [
+          489.0,
+          1434.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u092e\u0930\u093e\u0920\u094054205106-sambhogache-manas-shastra-marathi?from_search=true&from_srp=true&qid=2ynPPwEuEJ&rank=8.jpg",
+  "imageData": null,
+  "imageHeight": 2525,
+  "imageWidth": 1587
+}

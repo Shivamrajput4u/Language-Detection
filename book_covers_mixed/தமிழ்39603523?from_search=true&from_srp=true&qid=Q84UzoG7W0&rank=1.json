@@ -1,0 +1,178 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          95.0,
+          27.0
+        ],
+        [
+          221.0,
+          27.0
+        ],
+        [
+          221.0,
+          45.0
+        ],
+        [
+          95.0,
+          45.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          118.0,
+          52.0
+        ],
+        [
+          158.0,
+          52.0
+        ],
+        [
+          158.0,
+          60.0
+        ],
+        [
+          118.0,
+          60.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          159.0,
+          49.0
+        ],
+        [
+          197.0,
+          49.0
+        ],
+        [
+          197.0,
+          63.0
+        ],
+        [
+          159.0,
+          63.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          87.0,
+          165.0
+        ],
+        [
+          229.0,
+          165.0
+        ],
+        [
+          229.0,
+          227.0
+        ],
+        [
+          87.0,
+          227.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          80.0,
+          221.0
+        ],
+        [
+          232.0,
+          221.0
+        ],
+        [
+          232.0,
+          261.0
+        ],
+        [
+          80.0,
+          261.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          42.0,
+          262.0
+        ],
+        [
+          273.0,
+          262.0
+        ],
+        [
+          273.0,
+          323.0
+        ],
+        [
+          42.0,
+          323.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          96.0,
+          442.0
+        ],
+        [
+          218.0,
+          442.0
+        ],
+        [
+          218.0,
+          468.0
+        ],
+        [
+          96.0,
+          468.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd39603523?from_search=true&from_srp=true&qid=Q84UzoG7W0&rank=1.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 313
+}

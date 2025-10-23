@@ -1,0 +1,82 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          35.0,
+          45.0
+        ],
+        [
+          205.0,
+          45.0
+        ],
+        [
+          205.0,
+          87.0
+        ],
+        [
+          35.0,
+          87.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          15.0,
+          87.0
+        ],
+        [
+          283.0,
+          87.0
+        ],
+        [
+          283.0,
+          149.0
+        ],
+        [
+          15.0,
+          149.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          203.91534771090673,
+          38.11906469908023
+        ],
+        [
+          273.5853502812662,
+          48.00636944292775
+        ],
+        [
+          265.0846522890933,
+          92.88093530091976
+        ],
+        [
+          195.4146497187338,
+          81.99363055707225
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0939\u093f\u0928\u094d\u0926\u094036688425-main-nastik-kyon-hun?from_search=true&from_srp=true&qid=oLmcca1LuH&rank=5.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 307
+}

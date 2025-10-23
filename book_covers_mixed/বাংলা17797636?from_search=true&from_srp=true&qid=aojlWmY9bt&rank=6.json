@@ -1,0 +1,130 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          172.0,
+          48.0
+        ],
+        [
+          408.0,
+          48.0
+        ],
+        [
+          408.0,
+          77.0
+        ],
+        [
+          172.0,
+          77.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          142.0,
+          84.0
+        ],
+        [
+          442.0,
+          84.0
+        ],
+        [
+          442.0,
+          135.0
+        ],
+        [
+          142.0,
+          135.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          138.0,
+          152.0
+        ],
+        [
+          448.0,
+          152.0
+        ],
+        [
+          448.0,
+          248.0
+        ],
+        [
+          138.0,
+          248.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          207.0,
+          253.0
+        ],
+        [
+          375.0,
+          253.0
+        ],
+        [
+          375.0,
+          345.0
+        ],
+        [
+          207.0,
+          345.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          194.0,
+          351.0
+        ],
+        [
+          391.0,
+          351.0
+        ],
+        [
+          391.0,
+          456.0
+        ],
+        [
+          194.0,
+          456.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u09ac\u09be\u0982\u09b2\u09be17797636?from_search=true&from_srp=true&qid=aojlWmY9bt&rank=6.jpg",
+  "imageData": null,
+  "imageHeight": 904,
+  "imageWidth": 594
+}

@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          1123.0,
+          106.0
+        ],
+        [
+          1393.0,
+          106.0
+        ],
+        [
+          1393.0,
+          202.0
+        ],
+        [
+          1123.0,
+          202.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          175.0,
+          1839.0
+        ],
+        [
+          1424.0,
+          1839.0
+        ],
+        [
+          1424.0,
+          2143.0
+        ],
+        [
+          175.0,
+          2143.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          414.0,
+          2212.0
+        ],
+        [
+          1194.0,
+          2212.0
+        ],
+        [
+          1194.0,
+          2357.0
+        ],
+        [
+          414.0,
+          2357.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1376.2522791700983,
+          90.09574044789485
+        ],
+        [
+          1527.7715509272716,
+          73.16895226020985
+        ],
+        [
+          1535.7477208299017,
+          212.90425955210515
+        ],
+        [
+          1384.2284490727284,
+          230.83104773979016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u092e\u0930\u093e\u0920\u094054256294?from_search=true&from_srp=true&qid=2ynPPwEuEJ&rank=5.jpg",
+  "imageData": null,
+  "imageHeight": 2560,
+  "imageWidth": 1600
+}

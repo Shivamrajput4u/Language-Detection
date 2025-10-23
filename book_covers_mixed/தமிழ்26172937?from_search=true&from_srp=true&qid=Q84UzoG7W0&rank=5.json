@@ -1,0 +1,130 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          73.0,
+          61.0
+        ],
+        [
+          275.0,
+          61.0
+        ],
+        [
+          275.0,
+          127.0
+        ],
+        [
+          73.0,
+          127.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          96.0,
+          314.0
+        ],
+        [
+          256.0,
+          314.0
+        ],
+        [
+          256.0,
+          344.0
+        ],
+        [
+          96.0,
+          344.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          26.0,
+          378.0
+        ],
+        [
+          324.0,
+          378.0
+        ],
+        [
+          324.0,
+          402.0
+        ],
+        [
+          26.0,
+          402.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          97.0,
+          403.0
+        ],
+        [
+          255.0,
+          403.0
+        ],
+        [
+          255.0,
+          423.0
+        ],
+        [
+          97.0,
+          423.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          59.0,
+          445.0
+        ],
+        [
+          295.0,
+          445.0
+        ],
+        [
+          295.0,
+          461.0
+        ],
+        [
+          59.0,
+          461.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd26172937?from_search=true&from_srp=true&qid=Q84UzoG7W0&rank=5.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 345
+}

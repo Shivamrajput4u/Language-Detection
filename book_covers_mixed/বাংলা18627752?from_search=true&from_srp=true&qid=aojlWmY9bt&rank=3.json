@@ -1,0 +1,130 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          87.0,
+          33.0
+        ],
+        [
+          237.0,
+          33.0
+        ],
+        [
+          237.0,
+          73.0
+        ],
+        [
+          87.0,
+          73.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          84.0,
+          73.0
+        ],
+        [
+          239.0,
+          73.0
+        ],
+        [
+          239.0,
+          116.0
+        ],
+        [
+          84.0,
+          116.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          62.0,
+          108.0
+        ],
+        [
+          257.0,
+          108.0
+        ],
+        [
+          257.0,
+          163.0
+        ],
+        [
+          62.0,
+          163.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          121.0,
+          173.0
+        ],
+        [
+          197.0,
+          173.0
+        ],
+        [
+          197.0,
+          193.0
+        ],
+        [
+          121.0,
+          193.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          62.0,
+          204.0
+        ],
+        [
+          252.0,
+          204.0
+        ],
+        [
+          252.0,
+          232.0
+        ],
+        [
+          62.0,
+          232.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u09ac\u09be\u0982\u09b2\u09be18627752?from_search=true&from_srp=true&qid=aojlWmY9bt&rank=3.jpg",
+  "imageData": null,
+  "imageHeight": 424,
+  "imageWidth": 318
+}

@@ -1,0 +1,130 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          69.0,
+          867.0
+        ],
+        [
+          159.0,
+          867.0
+        ],
+        [
+          159.0,
+          911.0
+        ],
+        [
+          69.0,
+          911.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          180.0,
+          864.0
+        ],
+        [
+          306.0,
+          864.0
+        ],
+        [
+          306.0,
+          912.0
+        ],
+        [
+          180.0,
+          912.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          340.0,
+          862.0
+        ],
+        [
+          738.0,
+          862.0
+        ],
+        [
+          738.0,
+          912.0
+        ],
+        [
+          340.0,
+          912.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          95.0,
+          925.0
+        ],
+        [
+          711.0,
+          925.0
+        ],
+        [
+          711.0,
+          1035.0
+        ],
+        [
+          95.0,
+          1035.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          57.0,
+          1047.0
+        ],
+        [
+          755.0,
+          1047.0
+        ],
+        [
+          755.0,
+          1157.0
+        ],
+        [
+          57.0,
+          1157.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "classicfiction35407557-in-the-shadow-of-agatha-christie?from_search=true&from_srp=true&qid=QFEVixPxCf&rank=8.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 800
+}

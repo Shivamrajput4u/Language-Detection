@@ -1,0 +1,82 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          152.0,
+          66.0
+        ],
+        [
+          482.0,
+          66.0
+        ],
+        [
+          482.0,
+          188.0
+        ],
+        [
+          152.0,
+          188.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          165.0,
+          581.0
+        ],
+        [
+          257.0,
+          581.0
+        ],
+        [
+          257.0,
+          619.0
+        ],
+        [
+          165.0,
+          619.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          251.0,
+          625.0
+        ],
+        [
+          409.0,
+          625.0
+        ],
+        [
+          409.0,
+          663.0
+        ],
+        [
+          251.0,
+          663.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca118375657-kannada-emme?from_search=true&from_srp=true&qid=iOZJVeutY4&rank=1.jpg",
+  "imageData": null,
+  "imageHeight": 666,
+  "imageWidth": 500
+}

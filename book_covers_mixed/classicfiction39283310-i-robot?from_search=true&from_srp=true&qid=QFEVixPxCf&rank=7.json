@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          146.0,
+          38.0
+        ],
+        [
+          206.0,
+          38.0
+        ],
+        [
+          206.0,
+          66.0
+        ],
+        [
+          146.0,
+          66.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          212.0,
+          38.0
+        ],
+        [
+          236.0,
+          38.0
+        ],
+        [
+          236.0,
+          62.0
+        ],
+        [
+          212.0,
+          62.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          41.0,
+          26.0
+        ],
+        [
+          281.0,
+          26.0
+        ],
+        [
+          281.0,
+          125.0
+        ],
+        [
+          41.0,
+          125.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          73.0,
+          413.0
+        ],
+        [
+          245.0,
+          413.0
+        ],
+        [
+          245.0,
+          449.0
+        ],
+        [
+          73.0,
+          449.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "classicfiction39283310-i-robot?from_search=true&from_srp=true&qid=QFEVixPxCf&rank=7.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 327
+}

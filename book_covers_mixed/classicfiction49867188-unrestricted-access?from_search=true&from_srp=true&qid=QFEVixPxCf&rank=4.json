@@ -1,0 +1,178 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          27.0,
+          23.0
+        ],
+        [
+          257.0,
+          23.0
+        ],
+        [
+          257.0,
+          37.0
+        ],
+        [
+          27.0,
+          37.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          32.0,
+          40.0
+        ],
+        [
+          232.0,
+          40.0
+        ],
+        [
+          232.0,
+          112.0
+        ],
+        [
+          32.0,
+          112.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          4.0,
+          102.0
+        ],
+        [
+          265.0,
+          102.0
+        ],
+        [
+          265.0,
+          176.0
+        ],
+        [
+          4.0,
+          176.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          9.0,
+          201.0
+        ],
+        [
+          263.0,
+          201.0
+        ],
+        [
+          263.0,
+          263.0
+        ],
+        [
+          9.0,
+          263.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          67.0,
+          259.0
+        ],
+        [
+          205.0,
+          259.0
+        ],
+        [
+          205.0,
+          321.0
+        ],
+        [
+          67.0,
+          321.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          30.0,
+          328.0
+        ],
+        [
+          240.0,
+          328.0
+        ],
+        [
+          240.0,
+          360.0
+        ],
+        [
+          30.0,
+          360.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          47.0,
+          353.0
+        ],
+        [
+          223.0,
+          353.0
+        ],
+        [
+          223.0,
+          389.0
+        ],
+        [
+          47.0,
+          389.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "classicfiction49867188-unrestricted-access?from_search=true&from_srp=true&qid=QFEVixPxCf&rank=4.jpg",
+  "imageData": null,
+  "imageHeight": 400,
+  "imageWidth": 266
+}

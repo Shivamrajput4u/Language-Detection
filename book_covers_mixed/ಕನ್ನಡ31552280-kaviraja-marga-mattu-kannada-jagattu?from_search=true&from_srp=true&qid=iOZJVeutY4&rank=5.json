@@ -1,0 +1,58 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          54.0,
+          22.0
+        ],
+        [
+          112.0,
+          22.0
+        ],
+        [
+          112.0,
+          30.0
+        ],
+        [
+          54.0,
+          30.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          59.0,
+          31.0
+        ],
+        [
+          115.0,
+          31.0
+        ],
+        [
+          115.0,
+          45.0
+        ],
+        [
+          59.0,
+          45.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca131552280-kaviraja-marga-mattu-kannada-jagattu?from_search=true&from_srp=true&qid=iOZJVeutY4&rank=5.jpg",
+  "imageData": null,
+  "imageHeight": 200,
+  "imageWidth": 128
+}

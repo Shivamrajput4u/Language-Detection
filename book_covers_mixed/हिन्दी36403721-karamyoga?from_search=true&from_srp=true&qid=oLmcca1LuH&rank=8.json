@@ -1,0 +1,58 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          45.0,
+          32.0
+        ],
+        [
+          267.0,
+          32.0
+        ],
+        [
+          267.0,
+          77.0
+        ],
+        [
+          45.0,
+          77.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          23.0,
+          75.0
+        ],
+        [
+          293.0,
+          75.0
+        ],
+        [
+          293.0,
+          167.0
+        ],
+        [
+          23.0,
+          167.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0939\u093f\u0928\u094d\u0926\u094036403721-karamyoga?from_search=true&from_srp=true&qid=oLmcca1LuH&rank=8.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 312
+}

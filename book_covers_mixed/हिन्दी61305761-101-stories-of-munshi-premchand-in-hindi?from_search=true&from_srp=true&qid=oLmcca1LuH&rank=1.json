@@ -1,0 +1,226 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          96.0,
+          488.0
+        ],
+        [
+          334.0,
+          488.0
+        ],
+        [
+          334.0,
+          636.0
+        ],
+        [
+          96.0,
+          636.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          379.0,
+          483.0
+        ],
+        [
+          1087.0,
+          483.0
+        ],
+        [
+          1087.0,
+          639.0
+        ],
+        [
+          379.0,
+          639.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          97.0,
+          671.0
+        ],
+        [
+          1523.0,
+          671.0
+        ],
+        [
+          1523.0,
+          831.0
+        ],
+        [
+          97.0,
+          831.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          83.0,
+          851.0
+        ],
+        [
+          757.0,
+          851.0
+        ],
+        [
+          757.0,
+          1037.0
+        ],
+        [
+          83.0,
+          1037.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          545.0,
+          1152.0
+        ],
+        [
+          1501.0,
+          1152.0
+        ],
+        [
+          1501.0,
+          1288.0
+        ],
+        [
+          545.0,
+          1288.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1090.0,
+          1331.0
+        ],
+        [
+          1495.0,
+          1331.0
+        ],
+        [
+          1495.0,
+          1465.0
+        ],
+        [
+          1090.0,
+          1465.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          1230.0,
+          2126.0
+        ],
+        [
+          1488.0,
+          2126.0
+        ],
+        [
+          1488.0,
+          2236.0
+        ],
+        [
+          1230.0,
+          2236.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          828.0,
+          2258.0
+        ],
+        [
+          1494.0,
+          2258.0
+        ],
+        [
+          1494.0,
+          2378.0
+        ],
+        [
+          828.0,
+          2378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          363.32514582227475,
+          1167.093797818245
+        ],
+        [
+          546.8282560836528,
+          1154.7754480857047
+        ],
+        [
+          547.6748541777253,
+          1285.906202181755
+        ],
+        [
+          364.17174391634717,
+          1297.2245519142953
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0939\u093f\u0928\u094d\u0926\u094061305761-101-stories-of-munshi-premchand-in-hindi?from_search=true&from_srp=true&qid=oLmcca1LuH&rank=1.jpg",
+  "imageData": null,
+  "imageHeight": 2525,
+  "imageWidth": 1587
+}

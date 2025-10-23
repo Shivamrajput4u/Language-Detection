@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          240.0,
+          86.0
+        ],
+        [
+          340.0,
+          86.0
+        ],
+        [
+          340.0,
+          160.0
+        ],
+        [
+          240.0,
+          160.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          309.0,
+          48.0
+        ],
+        [
+          683.0,
+          48.0
+        ],
+        [
+          683.0,
+          216.0
+        ],
+        [
+          309.0,
+          216.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          125.0,
+          194.0
+        ],
+        [
+          790.0,
+          194.0
+        ],
+        [
+          790.0,
+          375.0
+        ],
+        [
+          125.0,
+          375.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          318.0,
+          1245.0
+        ],
+        [
+          605.0,
+          1245.0
+        ],
+        [
+          605.0,
+          1302.0
+        ],
+        [
+          318.0,
+          1302.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0c95\u0ca8\u0ccd\u0ca8\u0ca153857662-fables-of-africa-in-kannada?from_search=true&from_srp=true&qid=iOZJVeutY4&rank=8.jpg",
+  "imageData": null,
+  "imageHeight": 1351,
+  "imageWidth": 910
+}

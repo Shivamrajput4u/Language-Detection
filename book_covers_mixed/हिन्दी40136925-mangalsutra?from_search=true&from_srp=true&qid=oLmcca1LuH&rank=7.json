@@ -1,0 +1,58 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          110.0,
+          24.0
+        ],
+        [
+          223.0,
+          24.0
+        ],
+        [
+          223.0,
+          63.0
+        ],
+        [
+          110.0,
+          63.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          26.0,
+          64.0
+        ],
+        [
+          303.0,
+          64.0
+        ],
+        [
+          303.0,
+          144.0
+        ],
+        [
+          26.0,
+          144.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0939\u093f\u0928\u094d\u0926\u094040136925-mangalsutra?from_search=true&from_srp=true&qid=oLmcca1LuH&rank=7.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 331
+}

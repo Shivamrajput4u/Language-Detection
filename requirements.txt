@@ -1,9 +1,8 @@
-torch==2.1.0
-torchvision==0.16.0
-opencv-python-headless==4.8.1.78
-numpy==1.26.1
-requests==2.31.0
-beautifulsoup4==4.12.2
-matplotlib==3.8.0
-tqdm==4.66.1
-scikit-learn==1.3.2
+torch
+torchvision
+opencv-python-headless
+requests
+beautifulsoup4
+tqdm
+easyocr
+google-generativeai

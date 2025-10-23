@@ -1,0 +1,178 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          164.0,
+          8.0
+        ],
+        [
+          260.0,
+          8.0
+        ],
+        [
+          260.0,
+          14.0
+        ],
+        [
+          164.0,
+          14.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          264.0,
+          8.0
+        ],
+        [
+          302.0,
+          8.0
+        ],
+        [
+          302.0,
+          14.0
+        ],
+        [
+          264.0,
+          14.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          165.0,
+          187.0
+        ],
+        [
+          303.0,
+          187.0
+        ],
+        [
+          303.0,
+          225.0
+        ],
+        [
+          165.0,
+          225.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          154.0,
+          229.0
+        ],
+        [
+          313.0,
+          229.0
+        ],
+        [
+          313.0,
+          277.0
+        ],
+        [
+          154.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          175.0,
+          275.0
+        ],
+        [
+          297.0,
+          275.0
+        ],
+        [
+          297.0,
+          313.0
+        ],
+        [
+          175.0,
+          313.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          194.0,
+          430.0
+        ],
+        [
+          272.0,
+          430.0
+        ],
+        [
+          272.0,
+          454.0
+        ],
+        [
+          194.0,
+          454.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          168.0,
+          462.0
+        ],
+        [
+          298.0,
+          462.0
+        ],
+        [
+          298.0,
+          486.0
+        ],
+        [
+          168.0,
+          486.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "classicfiction41058280-a-vain-and-indecent-woman?from_search=true&from_srp=true&qid=QFEVixPxCf&rank=5.jpg",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 313
+}

@@ -1,0 +1,58 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          18.0,
+          34.0
+        ],
+        [
+          224.0,
+          34.0
+        ],
+        [
+          224.0,
+          61.0
+        ],
+        [
+          18.0,
+          61.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          61.0,
+          265.0
+        ],
+        [
+          175.0,
+          265.0
+        ],
+        [
+          175.0,
+          281.0
+        ],
+        [
+          61.0,
+          281.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u092e\u0930\u093e\u0920\u094016203830-marathi-vangmayacha-gaaliv-itihaas?from_search=true&from_srp=true&qid=2ynPPwEuEJ&rank=1.jpg",
+  "imageData": null,
+  "imageHeight": 368,
+  "imageWidth": 238
+}

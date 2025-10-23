@@ -1,0 +1,106 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "text",
+      "points": [
+        [
+          87.0,
+          81.0
+        ],
+        [
+          155.0,
+          81.0
+        ],
+        [
+          155.0,
+          121.0
+        ],
+        [
+          87.0,
+          121.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          69.0,
+          113.0
+        ],
+        [
+          182.0,
+          113.0
+        ],
+        [
+          182.0,
+          154.0
+        ],
+        [
+          69.0,
+          154.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          76.0,
+          150.0
+        ],
+        [
+          166.0,
+          150.0
+        ],
+        [
+          166.0,
+          180.0
+        ],
+        [
+          76.0,
+          180.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          90.0,
+          228.0
+        ],
+        [
+          163.0,
+          228.0
+        ],
+        [
+          163.0,
+          245.0
+        ],
+        [
+          90.0,
+          245.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd3686289-tamizh-ilakkiya-varalaaru?from_search=true&from_srp=true&qid=Q84UzoG7W0&rank=2.jpg",
+  "imageData": null,
+  "imageHeight": 400,
+  "imageWidth": 260
+}
